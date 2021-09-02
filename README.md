@@ -1,7 +1,9 @@
 # Memories
 
-<img src="app-1.png" alt="Web demonstration of app">
-<img src="app-2.gif" alt="Web demonstration of app 2">
+<div >
+  <img src="app-1.png" alt="Web demonstration of app" width="46%">
+  <img src="app-2.gif" alt="Web demonstration of app 2" width="46%" float="right">
+</div>
 
 > Project developed in Nodejs, React and Mongodb |
 > Took this course to improve my knowledge in mongoose library
